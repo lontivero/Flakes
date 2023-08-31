@@ -1,4 +1,4 @@
-# Flakes
+# Wasabi Coordinator
 
 ### On Linux x86_64 only
 
